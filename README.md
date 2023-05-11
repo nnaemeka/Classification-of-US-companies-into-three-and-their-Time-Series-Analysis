@@ -1,0 +1,2 @@
+# Classification-of-US-companies-into-three-and-their-Time-Series-Analysis
+The rate at which a company gains new followers in LinkedIn tells a lot about them. In this project the data from LinkedIn followers of US companies was transformed to days of the week average daily new followers and used as the features for classification of those companies into three groups: well_known, averagely known and inconspicuous companies. Thereafter, Time Series analysis were used to observe the trend of change in daily new followers.
